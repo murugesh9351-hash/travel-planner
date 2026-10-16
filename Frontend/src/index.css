@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* stylelint-disable at-rule-no-unknown */
+@theme {
+  --spacing-75: 18.75rem;
+  --spacing-250: 62.5rem;
+}
+/* stylelint-enable at-rule-no-unknown */
